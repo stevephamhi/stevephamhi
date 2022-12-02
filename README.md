@@ -34,7 +34,7 @@ class Pham_Dinh_Hung:
 
 ## 📑 My Resume
 
-[⬇ You Can Download Here](https://drive.google.com/file/d/1ID7iTZY9tUBRts3A4kzsi0uT_KsvjLBM/view?usp=share_link)
+[⬇ You Can Download Here]()
 
 ## 📈 Github Stats
 
