@@ -1,6 +1,6 @@
 # Hi, I’m Steve Jordan!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
-<a href=https://www.linkedin.com/in/penry28/>
+<a href=https://www.linkedin.com/in/stevejordandev/>
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
 </a>
 <a href=https://www.youtube.com/channel/UC4EBDAJYKT0p8RsCBrnEclw>
@@ -39,6 +39,6 @@ class Pham_Dinh_Hung:
 ## 📈 Github Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=penry28&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=penry28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=stevejordandev&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stevejordandev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penry28&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevejordandev&theme=tokyonight&layout=compact&langs_count=6">
